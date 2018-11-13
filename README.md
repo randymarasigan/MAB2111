@@ -1,5 +1,7 @@
 # MAB2111
 
+Randy Marasigan
+
 This repository is for the submission of my assignment for MABA 2111 computing class.
 
 Uploaded files:
